@@ -1,0 +1,9 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+data/chroma/
+data/processed/
+computer_vision/
+multimodal_dl/
+python/
+*.pdf
