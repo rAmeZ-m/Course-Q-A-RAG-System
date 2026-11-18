@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that answers student questions from the materials of three courses, stored in different file formats. Questions can be asked in **Arabic or English**, and answers are generated **only from the retrieved course content**, with source attribution.
 
-**Live demo:**[ _add the Streamlit link here after deploying_](https://course-q-a-rag-system-yxfrhsdyuqc7n5zht9xgwa.streamlit.app/)
+**Live demo:**[Trying it](https://course-q-a-rag-system-yxfrhsdyuqc7n5zht9xgwa.streamlit.app/)
 
 ![Course Q&A RAG screenshot](assets/demo.png)
 
